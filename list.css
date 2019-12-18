@@ -1,0 +1,27 @@
+.ListContenaire{
+    
+    margin-top: 80px;
+    padding-left: 13%;
+    padding-right: 13%;
+
+}
+
+.ListContenaire *{
+    margin-top: 30px;
+}
+
+.listflexbox{
+    
+    color:grey;
+    
+    
+}
+
+.listflex > *{
+    
+  
+    padding-right: 50px;
+    margin-top:50px;
+
+
+}

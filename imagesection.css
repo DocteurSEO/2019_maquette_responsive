@@ -1,0 +1,23 @@
+.imageSection{
+    margin-top: 100px;
+    width: 100%;
+    background-image: url(images/full-image.jpg);
+    background-position: left;
+    height: 750px;
+    background-size:cover;
+    
+    display: flex;
+    align-items: flex-end;
+    position: relative;
+    color: white;
+    display: flex;
+    background-attachment: fixed;
+   
+    align-items: center;
+  
+   
+}
+
+.imagecontenaire> h2 { font-size: 48px;}
+
+.imagecontenaire{ width: 400px;   margin-left: 13%;}
